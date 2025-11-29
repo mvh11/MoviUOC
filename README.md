@@ -130,5 +130,3 @@ Android Studio →
 - Crear keystore `.jks`
 - Generar archivo release
 
-APK generado:
-app/build/outputs/apk/release/app-release.apk
