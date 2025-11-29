@@ -87,7 +87,7 @@ POST /viajes
 
 ### B) Ejecutar Microservicios
 Clonar el repo:
-git clone https://github.com/tuusuario/MoviUOC.git
+git clone https://github.com/mvh11/MoviUOC.git
 
 usuarios-service:
 cd usuarios-service
